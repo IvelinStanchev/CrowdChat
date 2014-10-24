@@ -1,0 +1,6 @@
+D:\Telerik\Homework\JavaScript - Applications\SPAApplications\CrowdChat\CrowdChat\bin\CrowdChat.dll.config
+D:\Telerik\Homework\JavaScript - Applications\SPAApplications\CrowdChat\CrowdChat\bin\CrowdChat.dll
+D:\Telerik\Homework\JavaScript - Applications\SPAApplications\CrowdChat\CrowdChat\bin\CrowdChat.pdb
+D:\Telerik\Homework\JavaScript - Applications\SPAApplications\CrowdChat\CrowdChat\obj\Debug\CrowdChat.csprojResolveAssemblyReference.cache
+D:\Telerik\Homework\JavaScript - Applications\SPAApplications\CrowdChat\CrowdChat\obj\Debug\CrowdChat.dll
+D:\Telerik\Homework\JavaScript - Applications\SPAApplications\CrowdChat\CrowdChat\obj\Debug\CrowdChat.pdb
